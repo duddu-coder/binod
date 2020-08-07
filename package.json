@@ -1,0 +1,12 @@
+{
+  "name": "binod",
+  "version": "0.1.0",
+  "main": "index.js",
+  "description": "Binod",
+  "author": {
+    "email": "dudducoder@protonmail.com",
+    "name": "Duddu Coder",
+    "url": "https://duddu-coder.github.io"
+  },
+  "license": "MIT"
+}
